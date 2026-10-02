@@ -33,6 +33,7 @@ Configuration for the global hotkey, language, model, device, compute type, and 
 
 ### System Tray
 Quick access to recording, settings, logs, and application exit.
+
 ![Voice Typer System Tray](docs/assets/tray.png)
 
 ## 4. How It Works
