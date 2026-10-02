@@ -38,6 +38,10 @@ Kayıt, ayarlar, loglar ve uygulamadan çıkışa hızlı erişim.
 
 ![Voice Typer System Tray](docs/assets/tray.png)
 
+### Voice Typing
+
+![Voice Typer Notepad Demo](docs/assets/notepad-demo.gif)
+
 ## 4. Nasıl Çalışır?
 1. Kullanıcı global hotkey'e basar (örn. `Alt+X`).
 2. Uygulama o an aktif olan pencere tutamacını (`HWND`) kaydeder ve WASAPI üzerinden ses kaydına başlar.

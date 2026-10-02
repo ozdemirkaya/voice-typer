@@ -38,6 +38,10 @@ Quick access to recording, settings, logs, and application exit.
 
 ![Voice Typer System Tray](docs/assets/tray.png)
 
+### Voice Typing
+
+![Voice Typer Notepad Demo](docs/assets/notepad-demo.gif)
+
 ## 4. How It Works
 1. User presses the global hotkey (e.g., `Alt+X`).
 2. The application registers the currently active window handle (`HWND`) and begins recording audio via WASAPI.
