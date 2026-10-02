@@ -26,9 +26,11 @@ Voice Typer sits in your system tray and listens for a customizable global hotke
 
 ## 3. Demo / Screenshots
 
-*TODO: Add screenshots and GIFs here.*
-- Tray UI screenshot
-- Voice typing into Notepad GIF
+### Settings
+![Voice Typer Settings](docs/assets/settings.png)
+
+### System Tray
+![Voice Typer System Tray](docs/assets/tray.png)
 
 ## 4. How It Works
 1. User presses the global hotkey (e.g., `Alt+X`).
