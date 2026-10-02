@@ -24,12 +24,15 @@ Voice Typer sits in your system tray and listens for a customizable global hotke
 - **Data Privacy Separation:** Application binaries and user data (`%LOCALAPPDATA%\VoiceTyper`) are strictly separated.
 - **Per-User Installer:** Packaged with PyInstaller (onedir) and distributed via a low-privilege Inno Setup installer.
 
-## 3. Demo / Screenshots
+## 3. Screenshots
 
 ### Settings
+Configuration for the global hotkey, language, model, device, compute type, and VAD.
+
 ![Voice Typer Settings](docs/assets/settings.png)
 
 ### System Tray
+Quick access to recording, settings, logs, and application exit.
 ![Voice Typer System Tray](docs/assets/tray.png)
 
 ## 4. How It Works
