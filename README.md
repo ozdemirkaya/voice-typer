@@ -1,5 +1,7 @@
 # Voice Typer
 
+English | [Türkçe](README.tr.md)
+
 Voice Typer is a local-first Windows speech-to-text desktop application that records speech through a global hotkey, transcribes it locally using faster-whisper, and inserts the resulting text into the application that was active when recording started. 
 
 Voice Typer performs all transcription entirely locally. No cloud speech API is used, ensuring complete privacy.
