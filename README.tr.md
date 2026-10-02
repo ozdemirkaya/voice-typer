@@ -26,12 +26,16 @@ Voice Typer, sistem tepsinizde (system tray) çalışır ve özelleştirilebilir
 - **Veri Gizliliği Ayrımı:** Uygulama binary dosyaları ve kullanıcı verileri (`%LOCALAPPDATA%\VoiceTyper`) birbirinden kesin olarak ayrılmıştır.
 - **Kullanıcı Bazlı Kurulum (Per-User Installer):** PyInstaller (onedir) ile paketlenmiştir ve düşük yetki (low-privilege) gerektiren Inno Setup installer aracılığıyla dağıtılır.
 
-## 3. Demo / Ekran Görüntüleri
+## 3. Ekran Görüntüleri
 
 ### Settings
+Küresel kısayol tuşu, dil, model, cihaz, hesaplama türü ve VAD için yapılandırma.
+
 ![Voice Typer Settings](docs/assets/settings.png)
 
 ### System Tray
+Kayıt, ayarlar, loglar ve uygulamadan çıkışa hızlı erişim.
+
 ![Voice Typer System Tray](docs/assets/tray.png)
 
 ## 4. Nasıl Çalışır?
