@@ -1,0 +1,57 @@
+# Environments
+.venv/
+.venv_DISABLED/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Build & Release
+build/
+dist/
+*.egg-info/
+
+# Installer binaries
+installer/*.exe
+
+# Runtime user data & config
+cache/
+models/
+logs/
+config.json
+config.corrupt-*.json
+
+# Audio (Test and diagnostic recordings)
+*.wav
+*.mp3
+*.flac
+*.m4a
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.suo
+*.user
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary
+*.tmp
+*.temp

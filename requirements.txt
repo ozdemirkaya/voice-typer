@@ -1,0 +1,24 @@
+# ============================================================
+# Voice Typer — Python Dependencies
+# ============================================================
+# Python 3.11+ gereklidir.
+# Kurulum: pip install -r requirements.txt
+
+# --- GUI ---
+PySide6==6.7.*
+
+# --- Ses kaydı ---
+sounddevice==0.4.*
+soundfile==0.12.*
+numpy==1.26.*
+
+# --- STT: Local (faster-whisper) ---
+# CTranslate2 backend'i otomatik olarak bağımlılık olarak gelir.
+# GPU (CUDA) desteği için: pip install nvidia-cublas-cu12 nvidia-cudnn-cu12
+faster-whisper==1.0.*
+
+# --- Windows API ---
+# win32clipboard, win32gui, win32api, win32con vb. içerir.
+pywin32==306
+
+

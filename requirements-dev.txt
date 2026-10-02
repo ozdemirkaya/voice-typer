@@ -1,0 +1,4 @@
+# Development Dependencies
+bandit==1.7.*
+pip-audit
+pyinstaller
